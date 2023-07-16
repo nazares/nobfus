@@ -12,6 +12,8 @@ composer global require nazares/nobfus
 
 before you start add `.ignore` file in your `$PWD` directory
 
+put the project/forders you want to skip into `.ignore` file and run the following:
+
 ```bash
 nobfus path/to/your/php/project
 ```
