@@ -1,3 +1,3 @@
 # Bash script to obfuscate php files
 
-It will strip comments end whitespace
+The script to recursively strip comments and whitespaces down of  php files in the given project folder
