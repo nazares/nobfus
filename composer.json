@@ -8,5 +8,6 @@
             "email": "nazares@icloud.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": "nobfus"
 }
