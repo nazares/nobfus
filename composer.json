@@ -1,0 +1,12 @@
+{
+    "name": "nazares/nobfus",
+    "description": "Bash script to obfuscate php files",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergei Nazarenko",
+            "email": "nazares@icloud.com"
+        }
+    ],
+    "require": {}
+}
